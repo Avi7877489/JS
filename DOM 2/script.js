@@ -32,5 +32,7 @@ cs.style.backgroundColor = "red"
 // cs.style.visibility = "hidden"
 
 cs.style.fontSize = "20px"
-cs.innerText = "Hello"  // 10:39
+cs.innerText = "Hello"  
+
+
 
